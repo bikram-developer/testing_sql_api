@@ -1,0 +1,4 @@
+com\sql\api\Controller\TestController.class
+com\sql\api\entity\TestEntity.class
+com\sql\api\repo\TestRepo.class
+com\sql\api\TestingSqlApplication.class
